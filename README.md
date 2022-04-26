@@ -82,7 +82,8 @@ Bonus points:
 
 *the queries with JOINS made previously on the normal requirement will not be accepted in this task, you need to create new queries.
 
-Feedback:
+Feedback: 108/120 Points
+Delia
 Hi Sanja! You have a good CR. You have all 4 diagrams, created the db and also submitted all the queries.
 
 Pleasse find below my suggestions:
